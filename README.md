@@ -14,3 +14,6 @@ This project mirrors how credit analysts monitor counterparty exposure and colla
 
 ## Author
 Jingwa Asonganyi
+
+## License
+This project is licensed under the MIT License.
